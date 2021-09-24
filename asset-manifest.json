@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/main.aaca93ce.chunk.js",
-    "main.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/main.aaca93ce.chunk.js.map",
-    "runtime-main.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/runtime-main.b0e0674b.js",
-    "runtime-main.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/runtime-main.b0e0674b.js.map",
-    "static/js/2.3e8edf84.chunk.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.3e8edf84.chunk.js",
-    "static/js/2.3e8edf84.chunk.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.3e8edf84.chunk.js.map",
-    "static/js/3.5f4c1322.chunk.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/3.5f4c1322.chunk.js",
-    "static/js/3.5f4c1322.chunk.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/3.5f4c1322.chunk.js.map",
+    "main.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/main.2f42dc7c.chunk.js",
+    "main.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/main.2f42dc7c.chunk.js.map",
+    "runtime-main.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/runtime-main.dc8140b4.js",
+    "runtime-main.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/runtime-main.dc8140b4.js.map",
+    "static/js/2.b12db07d.chunk.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.b12db07d.chunk.js",
+    "static/js/2.b12db07d.chunk.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.b12db07d.chunk.js.map",
+    "static/js/3.894e38ad.chunk.js": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/3.894e38ad.chunk.js",
+    "static/js/3.894e38ad.chunk.js.map": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/3.894e38ad.chunk.js.map",
     "index.html": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/index.html",
-    "static/js/2.3e8edf84.chunk.js.LICENSE.txt": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.3e8edf84.chunk.js.LICENSE.txt",
+    "static/js/2.b12db07d.chunk.js.LICENSE.txt": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/js/2.b12db07d.chunk.js.LICENSE.txt",
     "static/media/Hero1-img.2ec41b53.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/Hero1-img.2ec41b53.jpg",
-    "static/media/featured1.b0a13987.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/featured1.b0a13987.jpg",
-    "static/media/product_1.b855ae18.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product_1.b855ae18.jpg",
-    "static/media/product_4.2f3de0ad.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product_4.2f3de0ad.jpg"
+    "static/media/featured1.4f9f97a4.png": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/featured1.4f9f97a4.png",
+    "static/media/product-1.af0af407.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product-1.af0af407.jpg",
+    "static/media/product-2.9be2d744.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product-2.9be2d744.jpg",
+    "static/media/product-3.adea0b43.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product-3.adea0b43.jpg",
+    "static/media/product_4.2f3de0ad.jpg": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product_4.2f3de0ad.jpg",
+    "static/media/product_6.2fc20aaa.png": "/AI_Blooded_Animals_CSHTN_04.github.io/my-app/static/media/product_6.2fc20aaa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0e0674b.js",
-    "static/js/2.3e8edf84.chunk.js",
-    "static/js/main.aaca93ce.chunk.js"
+    "static/js/runtime-main.dc8140b4.js",
+    "static/js/2.b12db07d.chunk.js",
+    "static/js/main.2f42dc7c.chunk.js"
   ]
 }
