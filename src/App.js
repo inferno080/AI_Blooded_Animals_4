@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Products from './components/Products';
 import { productData, productDataTwo } from './components/Products/data';
 import Feature from './components/Feature';
+import KommunicateChat from './chat';
 import Footer from './components/Footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Feature />
       <Products heading='Sweet Deals for You' data={productDataTwo} />
       <Footer />
+      <KommunicateChat/>
     </Router>
   );
 }

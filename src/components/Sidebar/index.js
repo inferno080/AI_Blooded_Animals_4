@@ -17,8 +17,8 @@ const Sidebar = ({ isOpen, toggle }) => {
       </Icon>
       <SidebarMenu>
         <SidebarLink to='/'>Fruits And Veggies</SidebarLink>
-        <SidebarLink to='/'>Animal Products</SidebarLink>
-        <SidebarLink to='/'>Items</SidebarLink>
+        <SidebarLink to='/'>Diary and Meat</SidebarLink>
+        <SidebarLink to='/'>Daily Offers</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
         <SidebarRoute to='/'>Order Now</SidebarRoute>

@@ -1,37 +1,34 @@
-import product1 from '../../images/product_1.jpg';
-import product2 from '../../images/product_2.jpg';
-import product3 from '../../images/product_3.jpg';
+import product1 from '../../images/product-1.jpg';
+import product2 from '../../images/product-2.jpg';
+import product3 from '../../images/product-3.jpg';
 import product4 from '../../images/product_4.jpg';
 import product5 from '../../images/product_5.jpg';
-import product6 from '../../images/product_6.jpg';
+import product6 from '../../images/product_6.png';
 
 export const productData = [
   {
     img: product1,
-    alt: 'Apple',
-    name: 'Apple',
+    alt: 'Fruits',
+    name: 'Fruits',
     desc:
-      'Fresh from the state of Himachal',
-    price: '40 Per Kg',
-    button: 'Add to Cart'
+      'Get juiciest and freshest, seasonal and exotic fruits !',
+    button: 'Explore'
   },
   {
     img: product2,
-    alt: 'Spinach',
-    name: 'Spinach',
+    alt: 'Vegetables',
+    name: 'Vegetables',
     desc:
-      " Secret to Popeye's Strength",
-    price: '50 Per Kg',
-    button: 'Add to Cart'
+      "Shop Fresh Leafy Greens on HelloGroccers to get coupons !",
+    button: 'Explore'
   },
   {
     img: product3,
-    alt: 'Orange',
-    name: 'Orange',
+    alt: 'Dry Fruits',
+    name: 'Dry Fruits',
     desc:
-      ' Fresh from the city of Nagpur',
-    price: '30 Per Kg',
-    button: 'Add to Cart'
+      'Dry Fruits and Seeds, rich in Vitamins, at the lowest prices !',
+    button: 'Explore'
   }
 ];
 
@@ -41,26 +38,23 @@ export const productDataTwo = [
     alt: 'Meat',
     name: 'Meat',
     desc:
-      'Fresh Meat',
-    price: '70 Per Kg',
-    button: 'Add to Cart'
+      'Sustainably produced fresh meat at the lowest prices !',
+    button: 'Explore'
   },
   {
     img: product5,
     alt: 'Eggs',
     name: 'Eggs',
     desc:
-      'Fresh Organic Eggs',
-    price: '24 Per Dozen',
-    button: 'Add to Cart'
+      'Farm Fresh eggs, rich in protein, delivered 24x7 at your doorstep !',
+    button: 'Explore'
   },
   {
     img: product6,
     alt: 'Fish',
     name: 'Fish',
     desc:
-      'Fresh Fish',
-    price: '65 Per Kg',
-    button: 'Add to Cart'
+      'Fish from the most hygienic and eco friendly fish farms!',
+    button: 'Explore'
   }
 ];
